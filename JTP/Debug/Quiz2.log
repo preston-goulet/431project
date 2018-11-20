@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Quiz2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+z:\desktop\school\fall2018\ser431\class project\project\jtp\mesh.h(480): warning C4018: '<': signed/unsigned mismatch
+z:\desktop\school\fall2018\ser431\class project\project\jtp\mesh.h(507): warning C4018: '<': signed/unsigned mismatch
+  Quiz2.vcxproj -> Z:\Desktop\School\Fall2018\SER431\Class Project\Project\JTP\Debug\MainProject.exe
